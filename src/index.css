@@ -1,5 +1,10 @@
-body {
-background: #DCDCDC !important;
+body{
+  background: url("./bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-attachment: fixed;
+  overflow: scroll;
 }
 
 code {
